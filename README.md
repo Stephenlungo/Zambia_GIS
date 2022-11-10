@@ -4,4 +4,4 @@ Provinces
 Wards
 Health Facilities
 Country Boundary
-The shape files are in both GeoJSON and TopoJSON formats
+The shape files are in GeoJSON
